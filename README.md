@@ -1,0 +1,1 @@
+# NAPI-AS.RESUME
